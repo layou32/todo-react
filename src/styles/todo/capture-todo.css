@@ -1,0 +1,17 @@
+.inline-form {
+  display: flex !important;
+  margin: 10px;
+}
+
+.input-todo {
+  height: 30px;
+  width: 300px;
+  border-radius: 5%;
+  margin: 0px 10px 0px 10px;
+}
+
+.btn-input-todo {
+  height: 35px;
+  border-radius: 5%;
+  margin: 0px 10px 0px 10px;
+}
